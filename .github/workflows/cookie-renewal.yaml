@@ -1,9 +1,11 @@
 name: Cookie Monitoring and Renewal
 
+permissions:
+  contents: write
+
 on:
-  # Run every 4 hours
   schedule:
-    - cron: '0 */4 * * *'
+    - cron: '0 */10 * * *'
 
   # Manual trigger
   workflow_dispatch:
@@ -66,5 +68,7 @@ jobs:
         run: |
           git config --global user.name 'Cookie Refresh Bot'
           git config --global user.email 'bot@github.com'
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           git add captured-cookies.json .cookies-archive/captured-cookies.json
-          git diff --staged --quiet || (git commit -m "Update cookies - $(date -u +'%Y-%m-%d %H:%M:%S UTC')" && git push)
+          git diff --staged --quiet || (git commit -m "Update cookies - $(date -u +'%Y-%m-%d %H:%M:%S UTC')" && git push origin HEAD)
+
