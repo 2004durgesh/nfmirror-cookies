@@ -1,13 +1,13 @@
 {
   "url": "https://netfree2.cc/mobile/home?app=1",
-  "captureDate": "2025-05-26T12:38:17.540Z",
+  "captureDate": "2025-05-27T01:28:07.988Z",
   "totalCookies": 1,
   "cookiesByDomain": {
     "netfree2.cc": [
       {
         "name": "cf_chl_rc_ni",
         "value": "2",
-        "expires": "2025-05-26T13:38:09.000Z",
+        "expires": "2025-05-27T02:27:59.000Z",
         "path": "/",
         "httpOnly": false,
         "secure": true,
@@ -21,7 +21,7 @@
       "value": "2",
       "domain": "netfree2.cc",
       "path": "/",
-      "expires": "2025-05-26T13:38:09.000Z",
+      "expires": "2025-05-27T02:27:59.000Z",
       "httpOnly": false,
       "secure": true,
       "sameSite": "None",
