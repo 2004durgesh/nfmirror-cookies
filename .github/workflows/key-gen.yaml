@@ -1,0 +1,49 @@
+name: Key Generation
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    # Run every 2 hours
+    - cron: '0 */2 * * *'
+  
+  # Manual trigger
+  workflow_dispatch:
+    inputs:
+      force_refresh:
+        description: 'Force refresh manually'
+        default: 'false'
+        required: false
+        type: choice
+        options:
+          - 'true'
+          - 'false'
+
+jobs:
+  generate-key:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Generate key
+        run: node key.js
+
+      - name: Commit and push updated key
+        run: |
+          git config --global user.name 'Key Generation Bot'
+          git config --global user.email 'bot@github.com'
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          git add key.txt
+          git diff --staged --quiet || (git commit -m "Update key - $(date -u +'%Y-%m-%d %H:%M:%S UTC')" && git push origin HEAD)
