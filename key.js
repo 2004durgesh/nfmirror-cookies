@@ -136,7 +136,17 @@ const keyGen = async () => {
         } catch (e) {
             console.log("⚠️ Error during evaluation:", e);
         }
-        evaluationResult = ${functionCallNames[0]}();
+            // Execute all functions and store results
+        const results = [];
+        ${functionCallNames.map(name => `
+            try {
+                results.push(${name}());
+            } catch (e) {
+                results.push('${name}: ' + e.message);
+            }
+        `).join('\n')}
+        evaluationResult = results;
+        console.log(results)
         `;
 
         console.log("⚙️ Evaluating in eval");
@@ -152,7 +162,7 @@ const keyGen = async () => {
 keyGen().then((val) => {
     console.log("✅ Key generation completed successfully.");
     console.log(val);
-    fs.writeFileSync('key.txt', String(val));
+    fs.writeFileSync('key.txt', JSON.stringify(val));
 }).catch(err => {
     console.error("❌ Key generation failed:", err);
     fs.writeFileSync('key.txt', String(err.message || "Key generation failed") + "\n" + String(err.stack || ""));
