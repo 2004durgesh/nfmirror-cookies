@@ -1,31 +1,7 @@
 {
   "url": "https://netfree2.cc/mobile/home?app=1",
-  "captureDate": "2025-06-19T12:40:16.233Z",
-  "totalCookies": 1,
-  "cookiesByDomain": {
-    "netfree2.cc": [
-      {
-        "name": "cf_chl_rc_ni",
-        "value": "2",
-        "expires": "2025-06-19T13:40:08.000Z",
-        "path": "/",
-        "httpOnly": false,
-        "secure": true,
-        "sameSite": "None"
-      }
-    ]
-  },
-  "allCookies": [
-    {
-      "name": "cf_chl_rc_ni",
-      "value": "2",
-      "domain": "netfree2.cc",
-      "path": "/",
-      "expires": "2025-06-19T13:40:08.000Z",
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None",
-      "url": "https://netfree2.cc"
-    }
-  ]
+  "captureDate": "2025-06-20T01:39:49.446Z",
+  "totalCookies": 0,
+  "cookiesByDomain": {},
+  "allCookies": []
 }
