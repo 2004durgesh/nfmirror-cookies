@@ -1,1 +1,5 @@
-["c1c89a03e1b34212e7c95f5863fa74f69ee827eb698ef80285f7daa33d3f3da9","f: f is not a function","q: q is not a function","G: G is not a function","l: l is not a function","X: X is not a function","A: A is not a function","h: h is not a function","Z: Z is not a function","j: j is not a function"]
+The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+TypeError [ERR_INVALID_ARG_TYPE]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+    at Object.writeFileSync (node:fs:2312:5)
+    at /home/runner/work/nfmirror-cookies/nfmirror-cookies/key.js:165:8
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
