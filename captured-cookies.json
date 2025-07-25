@@ -1,7 +1,824 @@
 {
   "url": "https://netfree2.cc/mobile/home?app=1",
-  "captureDate": "2025-07-24T12:43:25.175Z",
-  "totalCookies": 0,
-  "cookiesByDomain": {},
-  "allCookies": []
+  "captureDate": "2025-07-25T01:47:08.660Z",
+  "totalCookies": 49,
+  "cookiesByDomain": {
+    "net2025.cc": [
+      {
+        "name": "addhash",
+        "value": "6f9fc086f9812f179b1385c38ac7ef19%3A%3Abb2caa5345e651f49eec8fef57a749c3%3A%3A1753407969%3A%3Asu",
+        "expires": "Session cookie (no expiration)"
+      },
+      {
+        "name": "HstCfa1685644",
+        "value": "1753407969857",
+        "expires": "2026-07-25T01:46:09.000Z",
+        "path": "/",
+        "httpOnly": false,
+        "secure": false
+      },
+      {
+        "name": "HstCla1685644",
+        "value": "1753407969857",
+        "expires": "2026-07-25T01:46:09.000Z",
+        "path": "/",
+        "httpOnly": false,
+        "secure": false
+      },
+      {
+        "name": "HstCmu1685644",
+        "value": "1753407969857",
+        "expires": "2026-07-25T01:46:09.000Z",
+        "path": "/",
+        "httpOnly": false,
+        "secure": false
+      },
+      {
+        "name": "HstPn1685644",
+        "value": "1",
+        "expires": "2026-07-25T01:46:09.000Z",
+        "path": "/",
+        "httpOnly": false,
+        "secure": false
+      },
+      {
+        "name": "HstPt1685644",
+        "value": "1",
+        "expires": "2026-07-25T01:46:09.000Z",
+        "path": "/",
+        "httpOnly": false,
+        "secure": false
+      },
+      {
+        "name": "HstCnv1685644",
+        "value": "1",
+        "expires": "2026-07-25T01:46:09.000Z",
+        "path": "/",
+        "httpOnly": false,
+        "secure": false
+      },
+      {
+        "name": "HstCns1685644",
+        "value": "1",
+        "expires": "2026-07-25T01:46:09.000Z",
+        "path": "/",
+        "httpOnly": false,
+        "secure": false
+      },
+      {
+        "name": "__dtsu",
+        "value": "104017534079707315185906D3EBB32E",
+        "expires": "Session cookie (no expiration)"
+      },
+      {
+        "name": "_cc_id",
+        "value": "7406dd85e458d6a77610d4d01f1471ea",
+        "expires": "Session cookie (no expiration)"
+      },
+      {
+        "name": "_cc_cc",
+        "value": "ACZ4nGNQMDcxMEtJsTBNNTG1SDFLNDc3MzRIMUkxMEwzNDE3TE1kAIKMpoePGeCA59fGKSyMH2UZ%2FjMyMlybcYAJxj6%2FeA5c%2FNzRQ8ww9tlN7aYw9mEkNQ3%2FNWHMJ11aMOaNU4%2FY4MJrn3LD2JeQxN9%2BtIQxAcZOPgE%3D",
+        "expires": "Session cookie (no expiration)"
+      },
+      {
+        "name": "_cc_aud",
+        "value": "ABR4nGNgYGDIaHr4mAEGmBkYuGaAWYtaQSTjw3ogCQB4agXc",
+        "expires": "Session cookie (no expiration)"
+      },
+      {
+        "name": "panoramaId_expiry",
+        "value": "1754012771493",
+        "expires": "Session cookie (no expiration)"
+      },
+      {
+        "name": "panoramaId",
+        "value": "0cd76dcbe6b2cd2bdb0e40bd1899185ca02ca52fdcd41d8cdf3fbdec6380b24d",
+        "expires": "Session cookie (no expiration)"
+      },
+      {
+        "name": "panoramaIdType",
+        "value": "panoDevice",
+        "expires": "Session cookie (no expiration)"
+      },
+      {
+        "name": "t_hash_t",
+        "value": "abc78a058eac96a455ddc0447aeb99e7%3A%3Ac02d8a1bac103a9bbc11246e5c46a537%3A%3A1753408014%3A%3Asu",
+        "expires": "Session cookie (no expiration)"
+      },
+      {
+        "name": "HstCfa1188575",
+        "value": "1753408015368",
+        "expires": "2026-07-25T01:46:55.000Z",
+        "path": "/",
+        "httpOnly": false,
+        "secure": false
+      },
+      {
+        "name": "HstCla1188575",
+        "value": "1753408015368",
+        "expires": "2026-07-25T01:46:55.000Z",
+        "path": "/",
+        "httpOnly": false,
+        "secure": false
+      },
+      {
+        "name": "HstCmu1188575",
+        "value": "1753408015368",
+        "expires": "2026-07-25T01:46:55.000Z",
+        "path": "/",
+        "httpOnly": false,
+        "secure": false
+      },
+      {
+        "name": "HstPn1188575",
+        "value": "1",
+        "expires": "2026-07-25T01:46:55.000Z",
+        "path": "/",
+        "httpOnly": false,
+        "secure": false
+      },
+      {
+        "name": "HstPt1188575",
+        "value": "1",
+        "expires": "2026-07-25T01:46:55.000Z",
+        "path": "/",
+        "httpOnly": false,
+        "secure": false
+      },
+      {
+        "name": "HstCnv1188575",
+        "value": "1",
+        "expires": "2026-07-25T01:46:55.000Z",
+        "path": "/",
+        "httpOnly": false,
+        "secure": false
+      },
+      {
+        "name": "HstCns1188575",
+        "value": "1",
+        "expires": "2026-07-25T01:46:55.000Z",
+        "path": "/",
+        "httpOnly": false,
+        "secure": false
+      }
+    ],
+    "ic.tynt.com": [
+      {
+        "name": "uid",
+        "value": "CoIKSGiC4eJBjhAuDMmBAg",
+        "expires": "2026-07-25T01:46:55.000Z"
+      }
+    ],
+    "de.tynt.com": [
+      {
+        "name": "uid",
+        "value": "Ngh7PmiC4eKMWlD6X2XjDA",
+        "expires": "2026-07-25T01:46:55.872Z"
+      }
+    ],
+    "pd.sharethis.com": [
+      {
+        "name": "__stid",
+        "value": "ZGGABWiC4eIAAAAIOdOVAw",
+        "expires": "2026-07-25T01:46:55.000Z"
+      }
+    ],
+    "i.simpli.fi": [
+      {
+        "name": "suid",
+        "value": "2668E11F8185432899911083C5C31488",
+        "expires": "2026-07-26T01:46:55.000Z"
+      }
+    ],
+    "pxdrop.lijit.com": [
+      {
+        "name": "lijitAcc3PC",
+        "value": "1",
+        "expires": "2025-07-26T01:46:10.000Z"
+      }
+    ],
+    "t.sharethis.com": [
+      {
+        "name": "pxcelAcc3PC",
+        "value": "1",
+        "expires": "2025-07-26T01:46:55.000Z"
+      }
+    ],
+    "t.dtscdn.com": [
+      {
+        "name": "uid",
+        "value": "104017534079707315185906D3EBB32E",
+        "expires": "2026-01-20T01:40:54.000Z"
+      }
+    ],
+    "bcp.crwdcntrl.net": [
+      {
+        "name": "_cc_dc",
+        "value": "0",
+        "expires": "2026-04-21T01:04:00.000Z"
+      }
+    ],
+    ".net2025.cc": [
+      {
+        "name": "addhash",
+        "value": "6f9fc086f9812f179b1385c38ac7ef19%3A%3Abb2caa5345e651f49eec8fef57a749c3%3A%3A1753407969%3A%3Asu",
+        "expires": "2025-07-25T01:56:09.630Z",
+        "path": "/",
+        "httpOnly": false,
+        "secure": false
+      },
+      {
+        "name": "__dtsu",
+        "value": "104017534079707315185906D3EBB32E",
+        "expires": "2025-10-20T01:46:11.000Z",
+        "path": "/",
+        "httpOnly": false,
+        "secure": false
+      },
+      {
+        "name": "_cc_id",
+        "value": "7406dd85e458d6a77610d4d01f1471ea",
+        "expires": "2026-04-21T01:46:11.000Z",
+        "path": "/",
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_cc_cc",
+        "value": "ACZ4nGNQMDcxMEtJsTBNNTG1SDFLNDc3MzRIMUkxMEwzNDE3TE1kAIKMpoePGeCA59fGKSyMH2UZ%2FjMyMlybcYAJxj6%2FeA5c%2FNzRQ8ww9tlN7aYw9mEkNQ3%2FNWHMJ11aMOaNU4%2FY4MJrn3LD2JeQxN9%2BtIQxAcZOPgE%3D",
+        "expires": "2026-04-21T01:46:11.000Z",
+        "path": "/",
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "_cc_aud",
+        "value": "ABR4nGNgYGDIaHr4mAEGmBkYuGaAWYtaQSTjw3ogCQB4agXc",
+        "expires": "2026-04-21T01:46:11.000Z",
+        "path": "/",
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "panoramaId_expiry",
+        "value": "1754012771493",
+        "expires": "2025-08-01T01:46:11.000Z",
+        "path": "/",
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "panoramaId",
+        "value": "0cd76dcbe6b2cd2bdb0e40bd1899185ca02ca52fdcd41d8cdf3fbdec6380b24d",
+        "expires": "2025-08-01T01:46:11.000Z",
+        "path": "/",
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "panoramaIdType",
+        "value": "panoDevice",
+        "expires": "2025-08-01T01:46:11.000Z",
+        "path": "/",
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+      },
+      {
+        "name": "t_hash_t",
+        "value": "abc78a058eac96a455ddc0447aeb99e7%3A%3Ac02d8a1bac103a9bbc11246e5c46a537%3A%3A1753408014%3A%3Asu",
+        "expires": "2025-07-25T13:46:54.758Z",
+        "path": "/",
+        "httpOnly": false,
+        "secure": false
+      }
+    ],
+    "t.dtscout.com": [
+      {
+        "name": "l",
+        "value": "104017534079707315185906D3EBB32E",
+        "expires": "2025-07-25T01:48:20.000Z"
+      }
+    ],
+    "reyeshehadtwobri.com": [
+      {
+        "name": "AWSALB",
+        "value": "uqjnKv9FGzc6crNhesWECTQab10Ap43WIRv5cNcJlicoaEPrirO9Vsub140P5Imac+63YTWYnKZaxq0SLC05bNI3n/DcsA5dwvcFeNzUKivdCIBS613BIgGg7DGj",
+        "expires": "2025-08-01T01:46:19.527Z",
+        "path": "/",
+        "httpOnly": false,
+        "secure": false
+      },
+      {
+        "name": "csu",
+        "value": "adbb5ebf-6d88-4888-afb8-a6925ce7c767",
+        "expires": "1969-12-31T23:59:59.000Z",
+        "path": "/",
+        "httpOnly": false,
+        "secure": false
+      }
+    ],
+    ".youtube.com": [
+      {
+        "name": "GPS",
+        "value": "1",
+        "expires": "2025-07-25T02:16:19.618Z",
+        "path": "/",
+        "httpOnly": true,
+        "secure": true
+      },
+      {
+        "name": "YSC",
+        "value": "Dw4Z0h9QDB0",
+        "expires": "1969-12-31T23:59:59.000Z",
+        "path": "/",
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None"
+      },
+      {
+        "name": "VISITOR_INFO1_LIVE",
+        "value": "oalPki-n4Rc",
+        "expires": "2026-01-21T01:46:19.618Z",
+        "path": "/",
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None"
+      },
+      {
+        "name": "VISITOR_PRIVACY_METADATA",
+        "value": "CgJVUxIEGgAgZw%3D%3D",
+        "expires": "2026-01-21T01:46:19.618Z",
+        "path": "/",
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None"
+      },
+      {
+        "name": "PREF",
+        "value": "tz=UTC",
+        "expires": "2026-08-29T01:46:21.161Z",
+        "path": "/",
+        "httpOnly": false,
+        "secure": true
+      },
+      {
+        "name": "__Secure-ROLLOUT_TOKEN",
+        "value": "CLP63Myp0OeYhwEQ0baS3vHWjgMYhNnS3vHWjgM%3D",
+        "expires": "2026-01-21T01:46:20.626Z",
+        "path": "/",
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None"
+      }
+    ]
+  },
+  "allCookies": [
+    {
+      "name": "addhash",
+      "value": "6f9fc086f9812f179b1385c38ac7ef19%3A%3Abb2caa5345e651f49eec8fef57a749c3%3A%3A1753407969%3A%3Asu",
+      "domain": "net2025.cc",
+      "url": "https://net2025.cc/mobile/img/nf2/icon_x192.png"
+    },
+    {
+      "name": "uid",
+      "value": "CoIKSGiC4eJBjhAuDMmBAg",
+      "domain": "ic.tynt.com",
+      "url": "https://ic.tynt.com/b/p?id=wu!&lm=0&ts=1753407970281&dn=AFWU&iso=0&pu=https%3A%2F%2Fnet2025.cc%2Fmobile%2Fhome%3Fapp%3D1&t=NetMirror%20-%20Watch%20Movies%20and%20Series%20on%20Mobile&chpv=6.11.0&chuav=Chromium%3Bv%3D135.0.7049.114%2C%20Not-A.Brand%3Bv%3D8.0.0.0&chp=Linux&chmob=0&chua=Chromium%3Bv%3D135%2C%20Not-A.Brand%3Bv%3D8",
+      "expires": "2026-07-25T01:46:55.000Z"
+    },
+    {
+      "name": "uid",
+      "value": "Ngh7PmiC4eKMWlD6X2XjDA",
+      "domain": "de.tynt.com",
+      "url": "https://de.tynt.com/deb/v2?id=wu!&dn=AFWU&cc=1&chpv=6.11.0&chuav=Chromium%3Bv%3D135.0.7049.114%2C%20Not-A.Brand%3Bv%3D8.0.0.0&chp=Linux&chmob=0&chua=Chromium%3Bv%3D135%2C%20Not-A.Brand%3Bv%3D8&r=&pu=https%3A%2F%2Fnet2025.cc%2Fmobile%2Fhome%3Fapp%3D1",
+      "expires": "2026-07-25T01:46:55.872Z",
+      "maxAge": 7776000
+    },
+    {
+      "name": "__stid",
+      "value": "ZGGABWiC4eIAAAAIOdOVAw",
+      "domain": "pd.sharethis.com",
+      "url": "https://pd.sharethis.com/pd/dtscout",
+      "expires": "2026-07-25T01:46:55.000Z"
+    },
+    {
+      "name": "suid",
+      "value": "2668E11F8185432899911083C5C31488",
+      "domain": "i.simpli.fi",
+      "url": "https://i.simpli.fi/dpx?cid=11411&us_privacy=&33random=1753407970351.3&ref=",
+      "expires": "2026-07-26T01:46:55.000Z"
+    },
+    {
+      "name": "lijitAcc3PC",
+      "value": "1",
+      "domain": "pxdrop.lijit.com",
+      "url": "https://pxdrop.lijit.com/1/d/t.dhj?cls=sync&dmn=net2025.cc&GDPR_v2=&us_privacy=&pubid=dt_scout&gpp=&gpp_sid=",
+      "expires": "2025-07-26T01:46:10.000Z"
+    },
+    {
+      "name": "pxcelAcc3PC",
+      "value": "1",
+      "domain": "t.sharethis.com",
+      "url": "https://t.sharethis.com/1/k/t.dhj?cid=c010&cls=C&rnd=0.061939162606798104&stid=ZGGABWiC4eIAAAAIOdOVAw%3D%3D",
+      "expires": "2025-07-26T01:46:55.000Z"
+    },
+    {
+      "name": "HstCfa1685644",
+      "value": "1753407969857",
+      "domain": "net2025.cc",
+      "path": "/",
+      "expires": "2026-07-25T01:46:09.000Z",
+      "httpOnly": false,
+      "secure": false,
+      "url": "https://net2025.cc"
+    },
+    {
+      "name": "HstCla1685644",
+      "value": "1753407969857",
+      "domain": "net2025.cc",
+      "path": "/",
+      "expires": "2026-07-25T01:46:09.000Z",
+      "httpOnly": false,
+      "secure": false,
+      "url": "https://net2025.cc"
+    },
+    {
+      "name": "HstCmu1685644",
+      "value": "1753407969857",
+      "domain": "net2025.cc",
+      "path": "/",
+      "expires": "2026-07-25T01:46:09.000Z",
+      "httpOnly": false,
+      "secure": false,
+      "url": "https://net2025.cc"
+    },
+    {
+      "name": "HstPn1685644",
+      "value": "1",
+      "domain": "net2025.cc",
+      "path": "/",
+      "expires": "2026-07-25T01:46:09.000Z",
+      "httpOnly": false,
+      "secure": false,
+      "url": "https://net2025.cc"
+    },
+    {
+      "name": "HstPt1685644",
+      "value": "1",
+      "domain": "net2025.cc",
+      "path": "/",
+      "expires": "2026-07-25T01:46:09.000Z",
+      "httpOnly": false,
+      "secure": false,
+      "url": "https://net2025.cc"
+    },
+    {
+      "name": "HstCnv1685644",
+      "value": "1",
+      "domain": "net2025.cc",
+      "path": "/",
+      "expires": "2026-07-25T01:46:09.000Z",
+      "httpOnly": false,
+      "secure": false,
+      "url": "https://net2025.cc"
+    },
+    {
+      "name": "HstCns1685644",
+      "value": "1",
+      "domain": "net2025.cc",
+      "path": "/",
+      "expires": "2026-07-25T01:46:09.000Z",
+      "httpOnly": false,
+      "secure": false,
+      "url": "https://net2025.cc"
+    },
+    {
+      "name": "__dtsu",
+      "value": "104017534079707315185906D3EBB32E",
+      "domain": "net2025.cc",
+      "url": "https://net2025.cc/mobile/img/nf2/icon_x192.png"
+    },
+    {
+      "name": "uid",
+      "value": "104017534079707315185906D3EBB32E",
+      "domain": "t.dtscdn.com",
+      "url": "https://t.dtscdn.com/widget/?d=104017534079707315185906D3EBB32E&nid=300&p=2114454483&t=0&s=800x600x24&u=https%3A%2F%2Fnet2025.cc%2Fmobile%2Fhome%3Fapp%3D1&r=",
+      "expires": "2026-01-20T01:40:54.000Z",
+      "maxAge": 15465600
+    },
+    {
+      "name": "_cc_dc",
+      "value": "0",
+      "domain": "bcp.crwdcntrl.net",
+      "url": "https://bcp.crwdcntrl.net/6/data",
+      "expires": "2026-04-21T01:04:00.000Z",
+      "maxAge": 23328000
+    },
+    {
+      "name": "_cc_id",
+      "value": "7406dd85e458d6a77610d4d01f1471ea",
+      "domain": "net2025.cc",
+      "url": "https://net2025.cc/mobile/img/nf2/icon_x192.png"
+    },
+    {
+      "name": "_cc_cc",
+      "value": "ACZ4nGNQMDcxMEtJsTBNNTG1SDFLNDc3MzRIMUkxMEwzNDE3TE1kAIKMpoePGeCA59fGKSyMH2UZ%2FjMyMlybcYAJxj6%2FeA5c%2FNzRQ8ww9tlN7aYw9mEkNQ3%2FNWHMJ11aMOaNU4%2FY4MJrn3LD2JeQxN9%2BtIQxAcZOPgE%3D",
+      "domain": "net2025.cc",
+      "url": "https://net2025.cc/mobile/img/nf2/icon_x192.png"
+    },
+    {
+      "name": "_cc_aud",
+      "value": "ABR4nGNgYGDIaHr4mAEGmBkYuGaAWYtaQSTjw3ogCQB4agXc",
+      "domain": "net2025.cc",
+      "url": "https://net2025.cc/mobile/img/nf2/icon_x192.png"
+    },
+    {
+      "name": "panoramaId_expiry",
+      "value": "1754012771493",
+      "domain": "net2025.cc",
+      "url": "https://net2025.cc/mobile/img/nf2/icon_x192.png"
+    },
+    {
+      "name": "panoramaId",
+      "value": "0cd76dcbe6b2cd2bdb0e40bd1899185ca02ca52fdcd41d8cdf3fbdec6380b24d",
+      "domain": "net2025.cc",
+      "url": "https://net2025.cc/mobile/img/nf2/icon_x192.png"
+    },
+    {
+      "name": "panoramaIdType",
+      "value": "panoDevice",
+      "domain": "net2025.cc",
+      "url": "https://net2025.cc/mobile/img/nf2/icon_x192.png"
+    },
+    {
+      "name": "addhash",
+      "value": "6f9fc086f9812f179b1385c38ac7ef19%3A%3Abb2caa5345e651f49eec8fef57a749c3%3A%3A1753407969%3A%3Asu",
+      "domain": ".net2025.cc",
+      "path": "/",
+      "expires": "2025-07-25T01:56:09.630Z",
+      "httpOnly": false,
+      "secure": false,
+      "url": "https://net2025.cc"
+    },
+    {
+      "name": "__dtsu",
+      "value": "104017534079707315185906D3EBB32E",
+      "domain": ".net2025.cc",
+      "path": "/",
+      "expires": "2025-10-20T01:46:11.000Z",
+      "httpOnly": false,
+      "secure": false,
+      "url": "https://net2025.cc"
+    },
+    {
+      "name": "_cc_id",
+      "value": "7406dd85e458d6a77610d4d01f1471ea",
+      "domain": ".net2025.cc",
+      "path": "/",
+      "expires": "2026-04-21T01:46:11.000Z",
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax",
+      "url": "https://net2025.cc"
+    },
+    {
+      "name": "_cc_cc",
+      "value": "ACZ4nGNQMDcxMEtJsTBNNTG1SDFLNDc3MzRIMUkxMEwzNDE3TE1kAIKMpoePGeCA59fGKSyMH2UZ%2FjMyMlybcYAJxj6%2FeA5c%2FNzRQ8ww9tlN7aYw9mEkNQ3%2FNWHMJ11aMOaNU4%2FY4MJrn3LD2JeQxN9%2BtIQxAcZOPgE%3D",
+      "domain": ".net2025.cc",
+      "path": "/",
+      "expires": "2026-04-21T01:46:11.000Z",
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax",
+      "url": "https://net2025.cc"
+    },
+    {
+      "name": "_cc_aud",
+      "value": "ABR4nGNgYGDIaHr4mAEGmBkYuGaAWYtaQSTjw3ogCQB4agXc",
+      "domain": ".net2025.cc",
+      "path": "/",
+      "expires": "2026-04-21T01:46:11.000Z",
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax",
+      "url": "https://net2025.cc"
+    },
+    {
+      "name": "panoramaId_expiry",
+      "value": "1754012771493",
+      "domain": ".net2025.cc",
+      "path": "/",
+      "expires": "2025-08-01T01:46:11.000Z",
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax",
+      "url": "https://net2025.cc"
+    },
+    {
+      "name": "panoramaId",
+      "value": "0cd76dcbe6b2cd2bdb0e40bd1899185ca02ca52fdcd41d8cdf3fbdec6380b24d",
+      "domain": ".net2025.cc",
+      "path": "/",
+      "expires": "2025-08-01T01:46:11.000Z",
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax",
+      "url": "https://net2025.cc"
+    },
+    {
+      "name": "panoramaIdType",
+      "value": "panoDevice",
+      "domain": ".net2025.cc",
+      "path": "/",
+      "expires": "2025-08-01T01:46:11.000Z",
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax",
+      "url": "https://net2025.cc"
+    },
+    {
+      "name": "t_hash_t",
+      "value": "abc78a058eac96a455ddc0447aeb99e7%3A%3Ac02d8a1bac103a9bbc11246e5c46a537%3A%3A1753408014%3A%3Asu",
+      "domain": "net2025.cc",
+      "url": "https://net2025.cc/mobile/img/nf2/icon_x192.png"
+    },
+    {
+      "name": "l",
+      "value": "104017534079707315185906D3EBB32E",
+      "domain": "t.dtscout.com",
+      "url": "https://t.dtscout.com/udg/?su=104017534079707315185906D3EBB32E",
+      "expires": "2025-07-25T01:48:20.000Z",
+      "maxAge": 85
+    },
+    {
+      "name": "HstCfa1188575",
+      "value": "1753408015368",
+      "domain": "net2025.cc",
+      "path": "/",
+      "expires": "2026-07-25T01:46:55.000Z",
+      "httpOnly": false,
+      "secure": false,
+      "url": "https://net2025.cc"
+    },
+    {
+      "name": "HstCla1188575",
+      "value": "1753408015368",
+      "domain": "net2025.cc",
+      "path": "/",
+      "expires": "2026-07-25T01:46:55.000Z",
+      "httpOnly": false,
+      "secure": false,
+      "url": "https://net2025.cc"
+    },
+    {
+      "name": "HstCmu1188575",
+      "value": "1753408015368",
+      "domain": "net2025.cc",
+      "path": "/",
+      "expires": "2026-07-25T01:46:55.000Z",
+      "httpOnly": false,
+      "secure": false,
+      "url": "https://net2025.cc"
+    },
+    {
+      "name": "HstPn1188575",
+      "value": "1",
+      "domain": "net2025.cc",
+      "path": "/",
+      "expires": "2026-07-25T01:46:55.000Z",
+      "httpOnly": false,
+      "secure": false,
+      "url": "https://net2025.cc"
+    },
+    {
+      "name": "HstPt1188575",
+      "value": "1",
+      "domain": "net2025.cc",
+      "path": "/",
+      "expires": "2026-07-25T01:46:55.000Z",
+      "httpOnly": false,
+      "secure": false,
+      "url": "https://net2025.cc"
+    },
+    {
+      "name": "HstCnv1188575",
+      "value": "1",
+      "domain": "net2025.cc",
+      "path": "/",
+      "expires": "2026-07-25T01:46:55.000Z",
+      "httpOnly": false,
+      "secure": false,
+      "url": "https://net2025.cc"
+    },
+    {
+      "name": "HstCns1188575",
+      "value": "1",
+      "domain": "net2025.cc",
+      "path": "/",
+      "expires": "2026-07-25T01:46:55.000Z",
+      "httpOnly": false,
+      "secure": false,
+      "url": "https://net2025.cc"
+    },
+    {
+      "name": "AWSALB",
+      "value": "uqjnKv9FGzc6crNhesWECTQab10Ap43WIRv5cNcJlicoaEPrirO9Vsub140P5Imac+63YTWYnKZaxq0SLC05bNI3n/DcsA5dwvcFeNzUKivdCIBS613BIgGg7DGj",
+      "domain": "reyeshehadtwobri.com",
+      "path": "/",
+      "expires": "2025-08-01T01:46:19.527Z",
+      "httpOnly": false,
+      "secure": false,
+      "url": "https://reyeshehadtwobri.com"
+    },
+    {
+      "name": "csu",
+      "value": "adbb5ebf-6d88-4888-afb8-a6925ce7c767",
+      "domain": "reyeshehadtwobri.com",
+      "path": "/",
+      "expires": "1969-12-31T23:59:59.000Z",
+      "httpOnly": false,
+      "secure": false,
+      "url": "https://reyeshehadtwobri.com"
+    },
+    {
+      "name": "GPS",
+      "value": "1",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": "2025-07-25T02:16:19.618Z",
+      "httpOnly": true,
+      "secure": true,
+      "url": "https://youtube.com"
+    },
+    {
+      "name": "YSC",
+      "value": "Dw4Z0h9QDB0",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": "1969-12-31T23:59:59.000Z",
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "url": "https://youtube.com"
+    },
+    {
+      "name": "VISITOR_INFO1_LIVE",
+      "value": "oalPki-n4Rc",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": "2026-01-21T01:46:19.618Z",
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "url": "https://youtube.com"
+    },
+    {
+      "name": "VISITOR_PRIVACY_METADATA",
+      "value": "CgJVUxIEGgAgZw%3D%3D",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": "2026-01-21T01:46:19.618Z",
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "url": "https://youtube.com"
+    },
+    {
+      "name": "PREF",
+      "value": "tz=UTC",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": "2026-08-29T01:46:21.161Z",
+      "httpOnly": false,
+      "secure": true,
+      "url": "https://youtube.com"
+    },
+    {
+      "name": "__Secure-ROLLOUT_TOKEN",
+      "value": "CLP63Myp0OeYhwEQ0baS3vHWjgMYhNnS3vHWjgM%3D",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": "2026-01-21T01:46:20.626Z",
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "url": "https://youtube.com"
+    },
+    {
+      "name": "t_hash_t",
+      "value": "abc78a058eac96a455ddc0447aeb99e7%3A%3Ac02d8a1bac103a9bbc11246e5c46a537%3A%3A1753408014%3A%3Asu",
+      "domain": ".net2025.cc",
+      "path": "/",
+      "expires": "2025-07-25T13:46:54.758Z",
+      "httpOnly": false,
+      "secure": false,
+      "url": "https://net2025.cc"
+    }
+  ]
 }
